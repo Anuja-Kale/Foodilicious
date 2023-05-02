@@ -7,11 +7,10 @@ Project name ::  Food Licious
 ## Group 10
 
 ## Team Members ## 
-
-1. Rahul Ashok Kodate  			 kodate.ra@northeastern.edu	      2772254
+1. Anuja Kale			       kale.an@northeastern.edu	      2700699
 2. Aseem Deshmukh				 deshmukh.as@northeastern.edu	      2743798
 3. Nishantkumar Patel			 patel.nishant@northeastern.edu	2796854
-4. Anuja Kale			       kale.an@northeastern.edu	      2700699
+4. Rahul Ashok Kodate  			 kodate.ra@northeastern.edu	      2772254
 5. Udaykumar Shelke                	 shelke.u@northeastern.edu	      2727131
 
 Purpose of the project::
