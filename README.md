@@ -1,12 +1,4 @@
 
-Anuja Kale kale.an@northeastern.edu 2700699<br>
-Rahul Ashok Kodate kodate.ra@northeastern.edu 2772254<br>
-Nishantkumar Patel patel.nishant@northeastern.edu 2796854<br> 
-Aseem Deshmukh deshmukh.as@northeastern.edu 2743798<br>
-Udaykumar Shelke shelke.u@northeastern.edu 2727131<br> 
-
-
-
 Foodlicious
 Foodlicious is an online food ordering system built using React, Node.js, Express.js, and MongoDB. It allows customers to order a variety of foods directly from the website, with support for different cuisines, such as Italian, Mexican, Chinese, and more. Customers can track their order status and receive real-time updates on their delivery status, while the admin interface allows the business owner to manage their menu, set pricing, and monitor order fulfillment for all the different food options available.
 
