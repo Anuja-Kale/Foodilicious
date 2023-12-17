@@ -29,7 +29,7 @@ To run Foodlicious on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/Foodlicious.git
+   git clone https://github.com/Anuja-Kale/Foodilicious.git
 
 2. **Install dependencies:**
    cd Foodlicious && npm install
