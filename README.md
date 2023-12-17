@@ -32,6 +32,7 @@ To run Foodlicious on your local machine, follow these steps:
    git clone https://github.com/Anuja-Kale/Foodilicious.git
 
 2. **Install dependencies:**
+ 
    cd Foodlicious && npm install
 
 3. **Create a .env file and add the following environment variables:**
@@ -40,7 +41,8 @@ To run Foodlicious on your local machine, follow these steps:
 - `STRIPE_SECRET_KEY`: the secret key for your Stripe account
 
 4. **Start the development server:**
-   npm start
+
+    npm start
    
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
