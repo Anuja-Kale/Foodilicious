@@ -1,40 +1,52 @@
+# Foodlicious
 
-Foodlicious
 Foodlicious is an online food ordering system built using React, Node.js, Express.js, and MongoDB. It allows customers to order a variety of foods directly from the website, with support for different cuisines, such as Italian, Mexican, Chinese, and more. Customers can track their order status and receive real-time updates on their delivery status, while the admin interface allows the business owner to manage their menu, set pricing, and monitor order fulfillment for all the different food options available.
 
-Features
-User Dashboard
-Admin Dashboard
-Manage Users, Products, Orders in Admin Panel
-Add to Cart Feature
-Update Quantity in Cart
-Delete Products from the Cart
-User Authentication
-Common Payment Gateway Integration
-Paying Amount with Stripe
-Placing Orders
-Store Orders in the Database
-Retrieve Orders to User Profile
+## Features
 
-Technologies Used
-Frontend: React
-Backend: Node.js and Express.js
-Database: MongoDB
+- User Dashboard
+- Admin Dashboard
+- Manage Users, Products, Orders in Admin Panel
+- Add to Cart Feature
+- Update Quantity in Cart
+- Delete Products from the Cart
+- User Authentication
+- Common Payment Gateway Integration
+- Paying Amount with Stripe
+- Placing Orders
+- Store Orders in the Database
+- Retrieve Orders to User Profile
 
-Getting Started
+## Technologies Used
+
+- **Frontend:** React
+- **Backend:** Node.js and Express.js
+- **Database:** MongoDB
+
+## Getting Started
+
 To run Foodlicious on your local machine, follow these steps:
-Clone the repository: git clone https://github.com/your-username/Foodlicious.git
-Install dependencies: cd Foodlicious && npm install
-Create a .env file and add the following environment variables:
-MONGO_URI: the URI for your MongoDB database
-JWT_SECRET: a secret key used for user authentication
-STRIPE_SECRET_KEY: the secret key for your Stripe account
-Start the development server: npm start
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/Foodlicious.git
 
-ScreenShots:        
+2. **Install dependencies:**
+   cd Foodlicious && npm install
+
+3. **Create a .env file and add the following environment variables:**
+- `MONGO_URI`: the URI for your MongoDB database
+- `JWT_SECRET`: a secret key used for user authentication
+- `STRIPE_SECRET_KEY`: the secret key for your Stripe account
+
+4. **Start the development server:**
+   npm start
+   
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## ScreenShots:        
 Home Page 1:<br>
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/115193023/233467927-0c2ee95f-bce7-48bd-b853-8a0af5f765ed.png"><br>
 
